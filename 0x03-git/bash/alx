@@ -1,2 +1,6 @@
-#!/bin/bash
-echo "ALX School is so cool!"
+#!/sdfghjukl;poibin/bash
+<<<<<<< HEAD
+echo "ALX School"
+=======
+echo "ALX School"
+>>>>>>> update_script
